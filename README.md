@@ -1,5 +1,7 @@
 # Hands Model Zoo 🖐️
 
+_⚠️ Note: Project is under development and content, models and datasets will be updated. This is not a final release version._
+
 A collection of pretrained models for hand gesture recognition (HGR) tasks. Models are ready to use with the APIs and pipelines from [MediaPipe](https://github.com/google-ai-edge/mediapipe) and [Ultralytics YOLO](https://github.com/ultralytics/ultralytics). Visit those project to see how to integrate these model files.
 
 **Note:** If you'd like to test the model directly, visit the [my-hgr GitHub repository](https://github.com/jk4e/my-hgr) or try it out on [my-hgr Streamlit app](https://my-hgr.streamlit.app/).
